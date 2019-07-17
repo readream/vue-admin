@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["chunk-2d2389a5"],{ffa0:function(e,t,n){"use strict";n.r(t);var a=function(){var e=this,t=e.$createElement;e._self._c;return e._m(0)},c=[function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",{staticClass:"params"},[n("h1",[e._v("分类参数数据维护中！敬请期待！")])])}],s={},r=s,u=n("2877"),i=Object(u["a"])(r,a,c,!1,null,"6cde49ba",null);t["default"]=i.exports}}]);
+//# sourceMappingURL=chunk-2d2389a5.fd3d7b3e.js.map
